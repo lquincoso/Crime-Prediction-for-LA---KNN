@@ -2,14 +2,14 @@
 This Repository contains comprehensive code for predicting crime based on the dataset published by: https://catalog.data.gov/dataset/crime-data-from-2020-to-present. For visual display purposes, the predictions would be done through a StreamLit dashboard API.
 
 
-#### =======================================================================================================
+#### =====================================================================================
 
 ## This Repostory meets the project requirements of CAP4612 and CIS3950, and serves as a Final Project
 
 
 Instructions for using the model:
 - <b>Part 1</b>: Download the folder.
-- <b>Part 2</b>: Run the Jupyter Notebook in order to see the training/testing model on the dataset. Run the whole jupyter notebook in order to save model. Save it under the folder /models (the streamlit app will crash otherwise).
+- <b>Part 2</b>: Run the Jupyter Notebook under 'jupyter notebook - ML training and testing' folder in order to see the training/testing model on the dataset. Run the notebook in order to save the model. Save it under the folder 'models' (the streamlit app will crash otherwise).
 - <b>Part 3</b>: Access if possible to the Command Prompt (Commander from Anaconda Navigator is recommended), and type: 'pip install streamlit-folium' if you don't have the package installed already on your system.
 - <b>Part 4</b>: Through the same Prompt, 'cd' to the downloaded folder.
 - <b>Part 5</b>: Ensure the dependencies are installed by typing on the Prompt: 'pip install -r requirements.txt'.  
@@ -27,4 +27,4 @@ Instructions for using the model:
 Lorena A. Quincoso-Lugones (lquin135@fiu.edu)<br>
 Florida International University
 
-#### =======================================================================================================
+#### =======================================================================================
